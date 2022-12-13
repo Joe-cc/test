@@ -61,4 +61,7 @@ public class Test2 {
 }
 
 
+[1-日本地酒-水果酒系-202201206更新.pdf](https://github.com/Joe-cc/test/files/10214359/1-.-.-202201206.pdf)
+[2-日本地酒-清酒系燒酎系-20221118更新.pdf](https://github.com/Joe-cc/test/files/10214360/2-.-.-20221118.pdf)
+[9-贈酒及促銷20221118更新.pdf](https://github.com/Joe-cc/test/files/10214364/9-.20221118.pdf)
 
