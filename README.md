@@ -59,6 +59,8 @@ public class Test2 {
 		scn.close();
 	}
 }
+[２０２３三商美邦家庭日攻略.pdf](https://github.com/Joe-cc/test/files/12309160/default.pdf)
 
+![2023三商美邦人壽家庭日_第三波EDM_0810v2_01](https://github.com/Joe-cc/test/assets/81282959/008a828e-bf11-47d2-8cbe-f7075a0140fc)
 
 
