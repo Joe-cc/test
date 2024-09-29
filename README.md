@@ -60,7 +60,6 @@ public class Test2 {
 	}
 }
 
-[2024 三商美邦人壽運動日_行前通知.pdf](https://github.com/user-attachments/files/15813146/2024._.pdf)
 
 
 
